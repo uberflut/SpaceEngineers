@@ -75,7 +75,7 @@
   "options": {
     "env": {
       // Used in `utils\config.bat`
-      "git_path": "${config:git.path}"
+      "git_path": ""
     }
   }
 }
